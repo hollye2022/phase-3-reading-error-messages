@@ -1,3 +1,3 @@
-"hello world"
+# "hello world" = not_to 
 
-hello_world
+# hello_world = raise_error
